@@ -17,7 +17,7 @@ class MainWindow(QMainWindow):
         self.t1 = threading.Thread(target=self.progress)
 
         self.music_loop = False
-        self.path = "C:\\Users\\keshu\\Music\\"
+        self.path = "C:\\Users\\USER\\Music\\"
         self.random = False
         self.repeat = False
         self.first_track = True
