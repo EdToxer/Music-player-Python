@@ -4,8 +4,6 @@ Don't forget to change your path to music folder in self.path
 Soon will be cool design and more improvements
 
 Features to implement:
-<li>
-  <ul>Button to change music folde</ul>
-  <ul>Upload album cover</ul>
-  <ul>Color changing background</ul>
-</li>
+<li>Button to change music folde</li>
+<li>Upload album cover</li>
+<li>Color changing background</li>
