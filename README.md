@@ -8,3 +8,4 @@ Features to implement:
 <li>Show album covers</li>
 <li>Color changing background</li>
 <li>Switch from pygame to sounddevice</li>
+<li>Update design</li>
